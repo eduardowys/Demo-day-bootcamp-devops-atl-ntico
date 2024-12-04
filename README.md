@@ -45,8 +45,8 @@ Foi implementada uma infraestrutura na **AWS** utilizando os seguintes recursos:
 Sinta-se à vontade para contribuir com sugestões ou melhorias no projeto.
 
 ### Link das aplicação:
-- Site: https://github.com/eduardowys/Site-de-viagem-bt-DevOps
 - Docker Hub: https://hub.docker.com/r/eduardow3s/demoday/tags
 - Vídeo teste: https://drive.google.com/file/d/1EVtGPSZLD0aM2MyMILzeG5dzCVqzRN_K/view?usp=sharing
+- GitLab: https://gitlab.com/bootcamp-devops2381745/demoday-exploraviagem
 ---
 Projeto desenvolvido como parte do Boot Camp de DevOps do Instituto Atlântico.
